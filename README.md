@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Fraud Detection
 
 This notebook presents a fraud detection model using a dataset available on Kaggle. The dataset contains information about various transactions, including features such as the transaction amount, merchant category code, and transaction type.
